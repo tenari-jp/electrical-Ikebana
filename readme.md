@@ -1,6 +1,6 @@
 # 電子華道ツールキット
 
-![作品・日辻](assets/hitsuji.jpg)
+![作品・日辻](documents/assets/hitsuji.jpg)
 
 ## はじめに
 
