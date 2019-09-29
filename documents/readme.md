@@ -6,7 +6,7 @@
 
 ## 目次
 
-### [01_Introduction](01_Introducttion.md)
+### [01_Introduction](01_Introduction.md)
 
 電子華道を始めるために必要な道具や準備について
 
