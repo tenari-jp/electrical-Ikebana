@@ -6,8 +6,6 @@
 
 このリポジトリは、電子部品をいけばなに見立てた[活線プロジェクト](https://www.instagram.com/kassen_project/)の制作過程で設計された、電子いけばなを制作するためのリソースをまとめた物です。
 
-### キットを買いたい・若しくは買って作りたい方は[こちらのページが見やすくなっています。](https://tenari-jp.github.io/electrical-Ikebana/)
-
 ## データ構成
 
 ### 作り方(/howtomake)

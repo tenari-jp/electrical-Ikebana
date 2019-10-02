@@ -8,8 +8,6 @@
 
 ## キットを購入する
 
-
-
 ## 作り方を知る
 
 [01_intro](../howtomake/01_Introduction.md)
