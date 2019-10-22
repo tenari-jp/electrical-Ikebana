@@ -1,0 +1,6 @@
+[submodule "webpages/themes/ananke"]
+	path = webpages/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "webpages/themes/hermit"]
+	path = webpages/themes/hermit
+	url = https://github.com/Track3/hermit.git

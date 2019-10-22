@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "電子華道ツールキット"
+theme = "hermit"
+
+[[menu.main]]
+name = "Contents"
+url = "/content/index.md"
+weight = 10
