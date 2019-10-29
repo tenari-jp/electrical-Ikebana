@@ -1,4 +1,4 @@
-# 器仕様
+# 基板仕様
 
 ![pcbtop](assets/readme_top.jpg)
 
